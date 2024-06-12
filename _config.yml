@@ -8,13 +8,13 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Fernanda G. Nicola / Professor of Law"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Fernanda G. Nicola"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://fgnicola.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "fgnicola/fgnicola.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -22,41 +22,21 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
+  name             : "Fernanda G. Nicola"
+  pronouns         : "she/her" # example: "she/her"  
+  bio              : "Fernanda G. Nicola is Professor of Law at the Washington College of Law, American University and the Director of the Program on International Organizations Law and Development. Her research and teaching interests are in European Union Law, Constitutional Law, Comparative Law and Local Government Law. She received her PhD from Trento University and her SJD degree from Harvard Law School where she was the recipient of the Mancini Prize in European Law, and the Justice Welfare and Economics fellowship at the Weatherhead Center for International Affairs. Professor Nicola is the author of several articles on transnational legal theory and European integration. She co-edited two volumes on the Court of Justice of the European Union, with Cambridge University Press: with Bill Davies entitled EU law Stories: Contextual and Critical Histories in European Jurisprudence (2017) and with Mikael-Rask Madsen and Antoine Vauchez, Researching the European Court of Justice: Methodological Shifts and Law's Embeddedness (2020). Professor Nicola is a member of the American Society of Comparative Law (ASCL) and was the AALS Chair of the EU law and Comparative law Sections. In 2017 she was a Fernand Braudel Senior Fellow at the European University Institute (EUI) in Florence and a Visiting Professor at LUISS in Rome."
+  location         : "Washington D.C."
+  employer         : "Washington College of Law, American University"
+  uri              : "https://www.wcl.american.edu/community/faculty/profile/nicola/bio" # URL
+  email            : "fnicola@american.edu" 
 
   # Academic websites
-  arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-  impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
-  semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
-
-  # Repositories and software development
-  bitbucket        : # Username - Update with your username on the site
-  codepen          : # Username
-  dribbble         : # Username
-  github           : "academicpages"
-  kaggle           : # Username  
-  stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
+  linkedin         : "https://www.linkedin.com/in/profnicola"
+  googlescholar    : "https://scholar.google.com/citations?user=Z7qSw6kAAAAJ&hl=en"
+  researchgate     : "https://www.researchgate.net/profile/Fernanda-Nicola" # URL  
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
-  facebook         : # Username
-  flickr           : # Username
-  foursquare       : # Username
-  goodreads        : # Username
-  google_plus      : # Username
-  keybase          : # Username
-  instagram        : # Username
-  lastfm           : # Username
+  lastfm           : "profnicola" # Username
   linkedin         : # Username
   mastodon         : # URL
   medium           : # URL
