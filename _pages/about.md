@@ -16,8 +16,8 @@ Professor Nicola is a member of the American Society of Comparative Law (ASCL) a
 
 Education
 ======
-S.J.D., Harvard Law School 2009 (S.J.D.)
-Ph.D., Trento University, Italy 2006
-LL.M., Harvard Law School 2002
-Law Degree, University of Turin 2000 (Laurea in Legge (Law Degree))
-B.A., University of Turin 1996 (Laurea in Scienze Politiche)
+S.J.D., Harvard Law School 2009 (S.J.D.)<br />
+Ph.D., Trento University, Italy 2006)<br />
+LL.M., Harvard Law School 2002)<br />
+Law Degree, University of Turin 2000 (Laurea in Legge (Law Degree)))<br />
+B.A., University of Turin 1996 (Laurea in Scienze Politiche))<br />
