@@ -22,11 +22,10 @@ repository               : "fgnicola/fgnicola.github.io"
 author:
   # Biographic information
   avatar           : "profile2.png"
-  name             : "Fernanda G. Nicola"
-  pronouns         : "she/her" # example: "she/her"  
-  bio              : "Professor of Law and Director of the Program on International Organizations Law and Development."
+  name             : "Areas of Specialization"
+ # pronouns         : "she/her" # example: "she/her"  
+  bio              : "INTERNATIONAL/COMPARATIVE LAW; CONSTITUTIONAL LAW; EUROPEAN UNION LAW; LAW AND DEVELOPMENT; STATE AND LOCAL GOVERNMENT LAW; TRANSNATIONAL AND PRIVATE LAW THEORY"
   location         : "Washington D.C."
-  employer         : "Washington College of Law, American University"
   uri              : "https://www.wcl.american.edu/community/faculty/profile/nicola/bio" # URL
   email            : "fnicola@american.edu" 
 
@@ -34,6 +33,7 @@ author:
   linkedin         : "https://www.linkedin.com/in/profnicola"
   googlescholar    : "https://scholar.google.com/citations?user=Z7qSw6kAAAAJ&hl=en"
   researchgate     : "https://www.researchgate.net/profile/Fernanda-Nicola" # URL  
+  SSRN             : "http://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=680281"
 
   # Social media
   twitter          : # "fnicola" for X / Twitter
