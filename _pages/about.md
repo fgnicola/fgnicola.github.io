@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Dr. Fernanda G. Nicola"
+title: "Dr.  Fernanda G. Nicola"
 author_profile: true
 redirect_from: 
   - /about/
