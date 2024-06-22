@@ -1,12 +1,14 @@
 ---
 permalink: /
-title: "Dr.  Fernanda G. Nicola"
+title: "Professor of Law"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-Fernanda G. Nicola is Professor of Law at the Washington College of Law, American University and she is the Director of the Program on International Organizations Law and Development. Her research and teaching interests are in European Union Law, Constitutional Law, Comparative Law and Local Government Law. She received her PhD from Trento University and her SJD degree from Harvard Law School where she was the recipient of the Mancini Prize in European Law, and the Justice Welfare and Economics fellowship at the Weatherhead Center for International Affairs. Professor Nicola is the author of several articles on transnational legal theory and European integration including Invisible Cities in EU Law (2012), New Approaches to Regulatory Cooperation: The Politicization of Legal Expertise in the Transatlantic Trade and Investment Partnership (TTIP) Negotiation (2015); National Legal Traditions at Work in the Jurisprudence of the Court of Justice of the European Union (2016); Legal Diplomacy Against Authoritarianism (2020); with Oreste Pollicino, The Balkanization of Data Privacy Regulation (2020); with Gino Scaccia, The Italian Model to Fight Covid-19: Regional Cooperation and the Cost of One-Size- Fits-All Lockdown Measures (2020).
+Fernanda is a Professor of Law at the Washington College of Law, American University as well as the Director of the International Organizations Law and Development Program.
+
+Her research and teaching interests are in European Union Law, Constitutional Law, Comparative Law and Local Government Law. She received her PhD from Trento University and her SJD degree from Harvard Law School where she was the recipient of the Mancini Prize in European Law, and the Justice Welfare and Economics fellowship at the Weatherhead Center for International Affairs. Professor Nicola is the author of several articles on transnational legal theory and European integration including Invisible Cities in EU Law (2012), New Approaches to Regulatory Cooperation: The Politicization of Legal Expertise in the Transatlantic Trade and Investment Partnership (TTIP) Negotiation (2015); National Legal Traditions at Work in the Jurisprudence of the Court of Justice of the European Union (2016); Legal Diplomacy Against Authoritarianism (2020); with Oreste Pollicino, The Balkanization of Data Privacy Regulation (2020); with Gino Scaccia, The Italian Model to Fight Covid-19: Regional Cooperation and the Cost of One-Size- Fits-All Lockdown Measures (2020).
 
 She co-edited two volumes on the Court of Justice of the European Union, with Cambridge University Press: with Bill Davies entitled EU law Stories: Contextual and Critical Histories in European Jurisprudence (2017) and with Mikael-Rask Madsen and Antoine Vauchez, Researching the European Court of Justice: Methodological Shifts and Law's Embeddedness (2020).
 
