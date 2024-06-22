@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Fernanda G. Nicola / Professor of Law"
+title                    : "Fernanda G. Nicola"
 title_separator          : "-"
 name                     : &name "Fernanda G. Nicola"
 description              : &description "personal description"
@@ -21,10 +21,10 @@ repository               : "fgnicola/fgnicola.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile2.png"
   name             : "Fernanda G. Nicola"
   pronouns         : "she/her" # example: "she/her"  
-  bio              : "Fernanda G. Nicola is Professor of Law at the Washington College of Law, American University and the Director of the Program on International Organizations Law and Development. Her research and teaching interests are in European Union Law, Constitutional Law, Comparative Law and Local Government Law. She received her PhD from Trento University and her SJD degree from Harvard Law School where she was the recipient of the Mancini Prize in European Law, and the Justice Welfare and Economics fellowship at the Weatherhead Center for International Affairs. Professor Nicola is the author of several articles on transnational legal theory and European integration. She co-edited two volumes on the Court of Justice of the European Union, with Cambridge University Press: with Bill Davies entitled EU law Stories: Contextual and Critical Histories in European Jurisprudence (2017) and with Mikael-Rask Madsen and Antoine Vauchez, Researching the European Court of Justice: Methodological Shifts and Law's Embeddedness (2020). Professor Nicola is a member of the American Society of Comparative Law (ASCL) and was the AALS Chair of the EU law and Comparative law Sections. In 2017 she was a Fernand Braudel Senior Fellow at the European University Institute (EUI) in Florence and a Visiting Professor at LUISS in Rome."
+  bio              : "Professor of Law and Director of the Program on International Organizations Law and Development."
   location         : "Washington D.C."
   employer         : "Washington College of Law, American University"
   uri              : "https://www.wcl.american.edu/community/faculty/profile/nicola/bio" # URL
