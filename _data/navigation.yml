@@ -2,12 +2,12 @@
 main:
   - title: "CV"
     url: /cv/
-    
-  - title: "Publications"
-    url: /publications/
 
   - title: "Books"
     url: /books/    
     
   - title: "Comparative Law"
-    url: /comparative/    
+    url: /comparative/   
+    
+   - title: "Publications"
+    url: /publications/
