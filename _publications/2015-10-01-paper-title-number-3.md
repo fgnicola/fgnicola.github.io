@@ -1,5 +1,5 @@
 ---
-title: "Comparative Law"
+title: "Comparative Law: A Critical Lense"
 collection: publications
 permalink: /publication/2015-10-01-paper-title-number-3
 excerpt: 'A textbook on the critical practice of Comparative Law'
