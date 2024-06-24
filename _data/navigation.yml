@@ -1,7 +1,7 @@
 # main links links
 main:
   - title: "CV"
-    url: /cv/
+    url: /files/CV.pdf
 
   - title: "Books"
     url: /books/    
@@ -10,4 +10,4 @@ main:
     url: /comparative/   
     
    - title: "Publications"
-    url: /publications/
+    url: https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=680281
