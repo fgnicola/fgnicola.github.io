@@ -22,9 +22,9 @@ repository               : "fgnicola/fgnicola.github.io"
 author:
   # Biographic information
   avatar           : "profile2.png"
-  name             : "Areas of Specialization"
- # pronouns         : "she/her" # example: "she/her"  
-  bio              : "INTERNATIONAL/COMPARATIVE LAW <br /> CONSTITUTIONAL LAW <br /> EUROPEAN UNION LAW <br /> LAW AND DEVELOPMENT<br /> STATE AND LOCAL GOVERNMENT LAW<br />TRANSNATIONAL AND PRIVATE LAW THEORY<br />"
+  name             : "Fernanda G. Nicola"
+  pronouns         : "she/her" # example: "she/her"  
+  bio              : "AREAS OF SPECIALIZATION <br /> Constitutional Law <br /> International/Comparative Law <br /> European Union Law <br /> Law and Development <br /> State and Local Government Law <br />Transnational and Private Law Theory<br />"
   location         : "Washington D.C."
   uri              : "https://www.wcl.american.edu/community/faculty/profile/nicola/bio" # URL
   email            : "fnicola@american.edu" 
