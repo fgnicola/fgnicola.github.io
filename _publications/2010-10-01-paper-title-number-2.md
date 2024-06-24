@@ -1,13 +1,13 @@
 ---
-title: "Paper Title Number 2"
+title: "EU law Stories: Contextual and Critical Histories of European Jurisprudence"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+date: 2017
+venue: 'Cambridge University Press'
+#slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
+paperurl: 'https://www.amazon.com/Law-Stories-Contextual-Histories-Jurisprudence/dp/110754503X'
+citation: 'Fernanda Nicola, EU law Stories: Contextual and Critical Histories of European Jurisprudence (Fernanda Nicola & Bill Davies, eds., Cambridge U. Press 2017).'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+Through an interdisciplinary analysis of the rulings of the Court of Justice of the European Union, this book offers ‘thick’ descriptions, contextual histories and critical narratives engaging with leading or minor personalities involved behind the scenes of each case. The contributions depart from the notion that EU law and its history should be narrated in a linear and incremental way, to show instead that law evolves in a contingent and not determinate manner. The book shows that the effects of judge-made law remain relatively indeterminate and each case can be retold through different contextual narratives, and shows the commitment of the European legal elites to the experience of legal reasoning. The idea to cluster the stories around prominent cases is not to be fully comprehensive, but to re-focus the scholarship and teaching of EU law by moving beyond the black letter and unravelling the lawyering techniques to achieve policy results.
