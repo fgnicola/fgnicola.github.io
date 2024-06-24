@@ -1,13 +1,13 @@
 # main links links
 main:
-  - title: "CV"
-    url: /files/CV.pdf
-
   - title: "Books"
     url: /books/    
     
   - title: "Comparative Law"
     url: /comparative/   
     
- #  - title: "Publications"
-  #   url: /https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=680281
+  - title: "Publications"
+    url: https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=680281
+    
+  - title: "CV"
+    url: /files/CV.pdf
