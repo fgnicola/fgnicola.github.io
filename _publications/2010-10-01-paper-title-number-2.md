@@ -2,7 +2,7 @@
 title: "EU law Stories: Contextual and Critical Histories of European Jurisprudence"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
+excerpt: 'Through an interdisciplinary analysis of the rulings of the Court of Justice of the European Union, this book offers 'thick' descriptions, contextual histories and critical narratives engaging with leading or minor personalities involved behind the scenes of each case.'
 date: 2017-01-01
 venue: 'Cambridge University Press'
 #slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
