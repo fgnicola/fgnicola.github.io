@@ -3,7 +3,7 @@ title: "EU law Stories: Contextual and Critical Histories of European Jurisprude
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 01/01/2017
+date: 2017-01-01
 venue: 'Cambridge University Press'
 #slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
 paperurl: 'https://www.amazon.com/Law-Stories-Contextual-Histories-Jurisprudence/dp/110754503X'
