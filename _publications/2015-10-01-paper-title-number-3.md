@@ -3,7 +3,7 @@ title: "Comparative Law"
 collection: publications
 permalink: /publication/2015-10-01-paper-title-number-3
 excerpt: 'A textbook on the critical practice of Comparative Law'
-date: 2024
+date: 2024-01-01
 venue: 'Hart Publishing'
 #slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
 #paperurl: 'http://academicpages.github.io/files/paper3.pdf'
